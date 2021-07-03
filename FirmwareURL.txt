@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/Keppler-ac/Firmwares_sistema_keppler/main/ESP32_Power_Consumption_Test_Plus_GetSamples_Measurement_Fix_v3.ino.esp32.bin
